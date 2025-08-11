@@ -1,6 +1,6 @@
 grid = [[" "]*3 for _ in range(3)]
 p1, s1 = input("Player 1 name: "), input("Symbol: ")
-p2, s2 = input("Player 2 name: "), input("Symbol: ")
+p2, s2 = input("Player 3 name: "), input("Symbol: ")
 turn = True
 
 def print_grid():
